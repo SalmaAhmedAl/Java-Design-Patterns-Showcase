@@ -1,9 +1,29 @@
 # Default ignored files
 /shelf/
+# Exclude user-specific files
 /workspace.xml
+/.idea/workspace.xml
+/.idea/tasks.xml
+
+# Exclude IDE-specific files
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/*.iml
+/.idea/modules
+/.idea/libraries
+
+# Exclude IntelliJ IDEA's internal files
+/.idea/.name
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/gradle.xml
+
+/.idea/runConfigurations.xml
+/.idea/version-control.xml
+
 # IntelliJ IDEA files
 .idea/
 *.iml
 
 # Compiled output
-out/
+/out/

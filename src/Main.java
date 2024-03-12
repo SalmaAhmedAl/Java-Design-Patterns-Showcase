@@ -18,10 +18,10 @@ import java.util.stream.Stream;
 public class Main {
     public static void main(String[] args) {
 
-        /** //Strategy Pattern
+         //Strategy Pattern
         var imageStorage = new ImageStorage();
         imageStorage.store("a", new JpegCompressor(), new BlackAndWhiteFilter());
-         */
+         
 
         /** //Iterator Pattern
         var history = new BrowserHistory();
