@@ -14,7 +14,7 @@ Each design pattern is implemented in its own Java package within the respective
 - Command
 - Interpreter
 - Iterator
-![Iterator Design Patterns](images/iterator-design-pattern.jpg)
+![Iterator Design Patterns](/images/iterator-design-pattern.jpg)
 
 - Mediator
 - Memento
