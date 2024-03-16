@@ -15,14 +15,18 @@ Each design pattern is implemented in its own Java package within the respective
 - Interpreter
 - Iterator
 ![Iterator Design Patterns](images/iterator-design-pattern.jpg)
+
 - Mediator
 - Memento
 ![Memento Design Patterns](images/memento-design-pattern.jpg)
+
 - Observer
 - State
 ![State Design Patterns](images/state-design-pattern.jpg)
+
 - Strategy
 ![Strategy Design Patterns](images/strategy-design-pattern.jpg)
+
 - Template Method
 - Visitor
 
